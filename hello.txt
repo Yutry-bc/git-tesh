@@ -19,4 +19,6 @@ hello git ! wo ai ni !
 hello git ! wo ai ni !
 hello git ! wo ai ni !33333333333333
 hello git ! wo ai ni !
-hello git ! wo ai ni ! wo yao yong push le 
+hello git ! wo ai ni ! wo yao yong push le
+
+我第一次用PUSH
